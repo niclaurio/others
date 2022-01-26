@@ -88,5 +88,5 @@ class AlgebraicSum:
         print(f'{string} = {result}')
 
 
-op = AlgebraicSum(21.21, 0.223)
-op.print_info(21.21, 0.223)
+op = AlgebraicSum(21.21, -0.223)
+op.print_info(21.21, -0.223)
